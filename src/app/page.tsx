@@ -10,9 +10,11 @@ export default function Home() {
   return (
     <div className="">
       <Navbar />
+      
       <WelcomeSection />
       <WaveBanner />
       <AboutSection />
+      <h1>staging</h1>
       <ServicesSection />
       <CardCaroursalDemo />
       <Testimonial />
